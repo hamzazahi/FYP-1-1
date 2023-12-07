@@ -1,0 +1,5 @@
+classes = 81
+train  = C:\\Users\\tasaw\\Desktop\\Yolov3-Custom-Training\\train.txt
+valid  = C:\\Users\\tasaw\\Desktop\\Yolov3-Custom-Training\\valid.txt
+names = C:\\Users\\tasaw\\Desktop\\Yolov3-Custom-Training\\coco.names
+backup = C:\\Users\\tasaw\\Desktop\\Yolov3-Custom-Training\\backup\\
