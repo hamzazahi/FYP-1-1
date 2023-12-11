@@ -1,0 +1,6 @@
+classes= 15
+train  = cfg/train_vehicle_orientation_augment.txt
+valid  = cfg/evaluate_itsc_test.txt
+names = cfg/vehicle_orientation.names
+backup = weights/
+
